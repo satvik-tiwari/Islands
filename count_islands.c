@@ -10,7 +10,7 @@ int main()
   int i,j,c=0;
   int a[m][n];
   
-  printf("Enter 1's and 0's in the matrix:\n");
+  printf("Enter 1's and 0's in the Matrix:\n");
   for(i=0;i<m;i++)
   {
     for(j=0;j<n;j++)
